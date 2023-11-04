@@ -1,19 +1,5 @@
 .vfrc-system-response {
     color: red;
-    margin: 20px;
+    margin: 100px;
     
-}
-
-.vfrc-chat {
-    color: red;
-}
-
-.vfrc-message .c-gMpNkY {
-    color: red;
-    margin: 20px;
-}
-
-.vfrc-message .c-gMpNkY .vfrc-message--chat .c-PJLV .c-PJLV-jueArD-from-system {
-    color: red;
-    margin: 20px;
 }
