@@ -1,8 +1,5 @@
-<style>
-    .vfrc-system-response {
-        color: red;
-        margin: 100px;
-        
-    }
-</style>
+.vfrc-system-response {
+    margin: 100px;  
+    color: #000;
+}
 
