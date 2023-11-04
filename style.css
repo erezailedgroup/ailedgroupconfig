@@ -1,5 +1,6 @@
-.vfrc-system-response--controls {
+.vfrc-chat--dialog {
     margin: 100px;  
     color: #000;
+    max-width: 500px;
 }
 
